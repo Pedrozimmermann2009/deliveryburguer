@@ -86,20 +86,6 @@ This project was created to:
 - Add order tracking
 - Improve accessibility (ARIA)
 
----
-
-## 📸 Preview
-
-![Website Preview](./preview.png)
-
----
-
-## 👨‍💻 Author
-
-**Pedro Luiz Gomes Alves**
-
----
-
 ## 📄 License
 
 This project is open-source and available for learning and personal use.
